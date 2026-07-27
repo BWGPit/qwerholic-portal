@@ -32,11 +32,24 @@ body {
 .card-display {
     display: inline-flex;
     align-items: center;
+    width: 27dvw;
+    height: 30dvh;
+}
+
+.cardname {
+    font-size: 2.4dvh;
 }
 
 .card-text {
     display: inline-block;
     font-family: mainFont;
+    white-space: pre-wrap;
+    overflow-y: auto;
+    height: 28dvh;
+    scroll-snap-type: mandatory;
+    scrollbar-color: rgb(56, 40, 110) rgb(42, 2, 98);
+    scrollbar-width: thin;
+    font-size: 2dvh;
 }
 
 .cardimg {

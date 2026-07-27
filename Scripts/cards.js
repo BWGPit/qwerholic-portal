@@ -5,6 +5,6 @@ console.log("TEST")
 
 let innerhtml = ""
 for (let c of cardlist) {
-    innerhtml += `<div class="card-display"><img src="../Data/CardImages/${c.card_id}.png" class="cardimg"><pre class="card-text">${c.name}\n${c.effect}</pre></div>`
+    innerhtml += `<div class="card-display"><img src="../Data/CardImages/${c.card_id}.png" class="cardimg"><pre class="card-text"><p class="cardname">${c.name}</p>${c.effect}</pre></div>`
 }
 cd.innerHTML = innerhtml
