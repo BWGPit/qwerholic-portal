@@ -1,0 +1,14 @@
+[
+    {
+        "card_id": "001",
+        "name": "[Q is for cuties] Chodan",
+        "member": "Chodan",
+        "effect": "[Fight effect]\nDeals 200 damage every 3 turns."
+    },
+    {
+        "card_id": "002",
+        "name": "[Sub Vocalist] Magenta",
+        "member": "Magenta",
+        "effect": "[Fight effect]\nIncreases DEF by 350."
+    }
+]

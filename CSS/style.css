@@ -1,0 +1,45 @@
+@font-face {
+    font-family: mainFont;
+    src: url("../Fonts/zh-cn.ttf");
+}
+
+body {
+    background-image: linear-gradient(to bottom, white, #ef87b5, #06bded, #c3d773);
+    background-repeat: no-repeat;
+    height: 100%;
+    font-size: 2.2dvh;
+}
+
+.mainpage {
+    margin-left: 5dvw;
+    margin-right: 5dvw;
+    background-image: repeating-linear-gradient(rgb(79, 98, 206), rgb(52, 11, 84));
+    border-radius: 0.8dvh;
+    color: rgb(180, 196, 209);
+    padding: 20px;
+    border-color: black;
+}
+
+.welcome {
+    justify-items: center;
+    text-align: center;
+}
+
+#logo {
+    width: 20dvh;
+}
+
+.card-display {
+    display: inline-flex;
+    align-items: center;
+}
+
+.card-text {
+    display: inline-block;
+    font-family: mainFont;
+}
+
+.cardimg {
+    width: 20dvh;
+    display: inline-block;
+}
