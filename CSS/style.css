@@ -18,6 +18,9 @@ body {
     color: rgb(180, 196, 209);
     padding: 20px;
     border-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .welcome {
@@ -27,6 +30,12 @@ body {
 
 #logo {
     width: 20dvh;
+}
+
+.carddiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .card-display {
@@ -55,4 +64,41 @@ body {
 .cardimg {
     width: 20dvh;
     display: inline-block;
+}
+
+@media (orientation: portrait) {
+    .mainpage {
+        margin-left: 2dvw;
+        margin-right: 2dvw;
+        align-items: center;
+        justify-items: center;
+        justify-content: center;
+    }
+
+    .card-display {
+        display: inline-flex;
+        align-items: center;
+        justify-items: center;
+        justify-content: center;
+        width: 40dvw;
+        height: 30dvh;
+        margin-left: 0;
+    }
+
+    .cardimg {
+        display: inline-flex;
+        align-items: center;
+        justify-items: center;
+        justify-content: center;
+    }
+
+    .cardname {
+        width: 0;
+        visibility: hidden;
+    }
+
+    .card-text {
+        width: 0;
+        visibility: hidden;
+    }
 }
