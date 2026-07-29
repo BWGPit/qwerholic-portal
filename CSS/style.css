@@ -64,32 +64,108 @@ body {
 .cardimg {
     width: 20dvh;
     display: inline-block;
+    cursor: pointer;
+}
+
+.popup {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 0;
+    height: 70dvh;
+    width: 70dvw;
+    text-align: center;
+    border-color: rgb(32, 0, 88);
+    border-style: double;
+    border-radius: 10px;
+    background-color: rgb(12, 0, 48);
+    color: rgb(64, 119, 138);
+    font-family: mainFont;
+    transition: all ease-out 400ms;
+    transition-behavior: normal;
+    transition-duration: 400ms;
+    transition-timing-function: ease-out;
+    transition-delay: 0s;
+    transition-property: all;
+    position: fixed;
+    z-index: 100;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.dark-focus {
+    height: 100dvh;
+    width: 100dvw;
+    background-color: rgba(142, 128, 185, 0.6);
+    transition: all ease-out 400ms;
+    transition-behavior: normal;
+    transition-duration: 400ms;
+    transition-timing-function: ease-out;
+    transition-delay: 0s;
+    transition-property: all;
+    position: fixed;
+    z-index: 50;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+
+.hidden {
+    transition: 0.5s;
+    display: none;
+}
+
+.card-highlight {
+    display: inline-flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#popup-img {
+    width: 30%;
+    object-fit: contain;
+}
+
+#close-popup {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 @media (orientation: portrait) {
     .mainpage {
-        margin-left: 2dvw;
-        margin-right: 2dvw;
-        align-items: center;
-        justify-items: center;
-        justify-content: center;
+        margin-left: 0;
+        margin-right: 0;
+        display: flex;
+    }
+
+    .carddiv {
+        width: 100%;
+        display: grid;
+        grid-template-columns: auto auto;
     }
 
     .card-display {
-        display: inline-flex;
+        display: grid;
+        grid-template-columns: auto auto;
         align-items: center;
         justify-items: center;
         justify-content: center;
         width: 40dvw;
         height: 30dvh;
         margin-left: 0;
+        margin-right: 0;
     }
 
     .cardimg {
-        display: inline-flex;
-        align-items: center;
-        justify-items: center;
-        justify-content: center;
+        display: unset;
+        align-items: unset;
+        justify-items: unset;
+        justify-content: unset;
     }
 
     .cardname {
@@ -97,8 +173,24 @@ body {
         visibility: hidden;
     }
 
+    .card-highlight {
+        display: unset;
+        position: unset;
+    }
+
+    #popup-img {
+        width: 50%;
+    }
+
     .card-text {
         width: 0;
         visibility: hidden;
+    }
+
+    #close-popup {
+        font-size: 44px;
+        left: 0;
+        top: unset;
+        bottom: 0;
     }
 }

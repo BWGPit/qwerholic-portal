@@ -1,8 +1,29 @@
 import cardlist from '../Data/cardlist.json' with {type: "json"}
 let cd = document.getElementById("carddiv")
+let focusImg = document.getElementById("popup-img")
+let focusText = document.getElementById("popup-text")
+
+function focusCard(card) {
+    console.log(card.srcElement.id)
+    document.getElementsByClassName("popup")[0].classList.remove("hidden")
+    document.getElementsByClassName("dark-focus")[0].classList.remove("hidden")
+}
+
+function unfocusCard() {
+    document.getElementsByClassName("popup")[0].classList.add("hidden")
+    document.getElementsByClassName("dark-focus")[0].classList.add("hidden")
+}
 
 let innerhtml = ""
 for (let c of cardlist) {
-    innerhtml += `<div class="card-display"><img src="Data/CardImages/${c.card_id}.png" class="cardimg"><pre class="card-text"><p class="cardname">${c.name}</p>${c.effect}</pre></div>`
+    innerhtml += `<div class="card-display"><img src="Data/CardImages/${c.card_id}.png" class="cardimg" id="cardimg-${c.card_id}"><pre class="card-text"><p class="cardname">${c.name}</p>${c.effect}</pre></div>`
 }
 cd.innerHTML = innerhtml
+
+let cardimg = document.getElementsByClassName("cardimg")
+for (let c of cardimg) {
+    c.addEventListener("click", focusCard)
+}
+
+document.getElementById("close-popup").addEventListener("click", unfocusCard)
+document.getElementsByClassName("dark-focus")[0].addEventListener("click", unfocusCard)
