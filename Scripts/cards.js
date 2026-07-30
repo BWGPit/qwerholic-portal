@@ -4,9 +4,12 @@ let focusImg = document.getElementById("popup-img")
 let focusText = document.getElementById("popup-text")
 
 function focusCard(card) {
-    console.log(card.srcElement.id)
+    let cID = card.srcElement.id.replace("cardimg-", "")
     document.getElementsByClassName("popup")[0].classList.remove("hidden")
     document.getElementsByClassName("dark-focus")[0].classList.remove("hidden")
+    focusImg.src = `Data/CardImages/${cID}.png`
+    let c = cardlist[cID]
+    focusText.innerHTML = `<p class="cardname">${c.name}</p>${c.effect}</pre>`
 }
 
 function unfocusCard() {
@@ -14,9 +17,12 @@ function unfocusCard() {
     document.getElementsByClassName("dark-focus")[0].classList.add("hidden")
 }
 
+let keys = Object.keys(cardlist).sort((a, b) => Number(a) - Number(b))
+
 let innerhtml = ""
-for (let c of cardlist) {
-    innerhtml += `<div class="card-display"><img src="Data/CardImages/${c.card_id}.png" class="cardimg" id="cardimg-${c.card_id}"><pre class="card-text"><p class="cardname">${c.name}</p>${c.effect}</pre></div>`
+for (let card of keys) {
+    let c = cardlist[card]
+    innerhtml += `<div class="card-display"><img src="Data/CardImages/${c.card_id}.png" class="cardimg" id="cardimg-${c.card_id}" loading="lazy"><pre class="card-text"><p class="cardname">${c.name}</p>${c.effect}</pre></div>`
 }
 cd.innerHTML = innerhtml
 

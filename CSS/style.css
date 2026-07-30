@@ -129,6 +129,10 @@ body {
     object-fit: contain;
 }
 
+#popup-text {
+    text-align: left;
+}
+
 #close-popup {
     cursor: pointer;
     position: absolute;
