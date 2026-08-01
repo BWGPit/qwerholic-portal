@@ -159,8 +159,8 @@ body {
         align-items: center;
         justify-items: center;
         justify-content: center;
-        width: 40dvw;
-        height: 30dvh;
+        width: 60dvw;
+        height: 40dvh;
         margin-left: 0;
         margin-right: 0;
     }
@@ -170,6 +170,8 @@ body {
         align-items: unset;
         justify-items: unset;
         justify-content: unset;
+        height: 50dvh;
+        object-fit: contain;
     }
 
     .cardname {
