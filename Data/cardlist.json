@@ -706,5 +706,11 @@
         "name": "[Drum Queen] Chodan",
         "rarity": "R",
         "effect": "[Fight effect]\nRegenerates 5 MANA each turn. The following bonuses are applied in order.\n[Trait bonus]\nThis effect is doubled if the other equipped card has a [Queen] trait.\n[Member bonus]\nThis effect is 150% as effective if the other equipped card is a different member's card."
+    },
+    "175": {
+        "card_id": "175",
+        "name": "[Teenteen Student - Q] Chodan",
+        "rarity": "R",
+        "effect": "[Fight effect]\nEach turn, there is a 5% chance of inflicting Card Restriction, negating any card effects to be activated by your opponent during their next turn.\n[Trait bonus]\nThe chance becomes 15% if the other equipped card has the trait [Teenteen]. Then, if it also shares the sub-trait [Student], the chance becomes 20% instead."
     }
 }
