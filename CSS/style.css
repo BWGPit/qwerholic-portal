@@ -167,9 +167,8 @@ body {
     }
 
     .card-display {
-        
-        width: 40dvw;
         height: 40dvh;
+        width: auto;
         margin-left: 0;
         margin-right: 0;
     }
