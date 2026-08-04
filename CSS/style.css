@@ -32,12 +32,6 @@ body {
     width: 20dvh;
 }
 
-.carddiv {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .card-display {
     display: inline-flex;
     align-items: center;
@@ -50,6 +44,22 @@ body {
 }
 
 .card-text {
+    display: inline-block;
+    font-family: mainFont;
+    white-space: pre-wrap;
+    overflow-y: auto;
+    height: 28dvh;
+    scroll-snap-type: mandatory;
+    scrollbar-color: rgb(56, 40, 110) rgb(42, 2, 98);
+    scrollbar-width: thin;
+    font-size: 2dvh;
+}
+
+.focus-cardname {
+    font-size: 2.4dvh;
+}
+
+.focus-card-text {
     display: inline-block;
     font-family: mainFont;
     white-space: pre-wrap;
@@ -147,19 +157,18 @@ body {
         display: flex;
     }
 
-    .carddiv {
+    #carddiv {
         width: 100%;
-        display: grid;
-        grid-template-columns: auto auto;
-    }
-
-    .card-display {
         display: grid;
         grid-template-columns: auto auto;
         align-items: center;
         justify-items: center;
         justify-content: center;
-        width: 60dvw;
+    }
+
+    .card-display {
+        
+        width: 40dvw;
         height: 40dvh;
         margin-left: 0;
         margin-right: 0;
@@ -170,7 +179,7 @@ body {
         align-items: unset;
         justify-items: unset;
         justify-content: unset;
-        height: 50dvh;
+        height: 40dvh;
         object-fit: contain;
     }
 
@@ -194,9 +203,8 @@ body {
     }
 
     #close-popup {
-        font-size: 44px;
-        left: 0;
-        top: unset;
-        bottom: 0;
+        display: unset;
+        position: unset;
+        visibility: hidden;
     }
 }

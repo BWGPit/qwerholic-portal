@@ -9,7 +9,7 @@ function focusCard(card) {
     document.getElementsByClassName("dark-focus")[0].classList.remove("hidden")
     focusImg.src = `Data/CardImages/${cID}.png`
     let c = cardlist[cID]
-    focusText.innerHTML = `<p class="cardname">${c.name}</p>${c.effect}</pre>`
+    focusText.innerHTML = `<pre class="focus-card-text"><p class="focus-cardname">${c.name}</p>${c.effect}</pre>`
 }
 
 function unfocusCard() {
