@@ -24,8 +24,17 @@ body {
 }
 
 .navbar {
-    background-image: repeating-linear-gradient(white, rgb(198, 198, 198), rgb(82, 180, 250));
-    border-color: aliceblue;
+    background-image: repeating-linear-gradient(white, rgb(142, 226, 247), rgb(82, 180, 250));
+    border-top: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 .welcome {
@@ -210,5 +219,13 @@ body {
         display: unset;
         position: unset;
         visibility: hidden;
+    }
+
+    .navbar {
+        right: auto;
+        padding-right: 10px;
+        background-image: linear-gradient(to left, rgb(5, 79, 135), rgb(13, 116, 176));
+        border-bottom-left-radius: 0;
+        border-top-right-radius: 10px;
     }
 }
