@@ -23,6 +23,11 @@ body {
     justify-content: center;
 }
 
+.navbar {
+    background-image: repeating-linear-gradient(white, rgb(198, 198, 198), rgb(82, 180, 250));
+    border-color: aliceblue;
+}
+
 .welcome {
     justify-items: center;
     text-align: center;
