@@ -10,6 +10,37 @@ body {
     font-size: 2.2dvh;
 }
 
+#copyright {
+    margin-top: 20%;
+}
+
+.home {
+    bottom: 0;
+    height: 100dvh;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.navigation-home {
+    display: inline-flex;
+}
+
+.content-page {
+    display: block;
+}
+
+.home-nav-img {
+    display: block;
+    width: 20dvh;
+}
+
+.home-nav-title {
+    display: block;
+    font-size: large;
+    font-style: italic;
+    text-decoration: solid;
+    color: aliceblue;
+}
+
 .mainpage {
     margin-left: 5dvw;
     margin-right: 5dvw;
@@ -18,7 +49,6 @@ body {
     color: rgb(180, 196, 209);
     padding: 20px;
     border-color: black;
-    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -78,11 +108,13 @@ body {
     font-family: mainFont;
     white-space: pre-wrap;
     overflow-y: auto;
-    height: 28dvh;
     scroll-snap-type: mandatory;
     scrollbar-color: rgb(56, 40, 110) rgb(42, 2, 98);
     scrollbar-width: thin;
     font-size: 2dvh;
+    bottom: 0;
+    margin: auto;
+    height: auto;
 }
 
 .cardimg {
@@ -202,12 +234,22 @@ body {
     }
 
     .card-highlight {
-        display: unset;
+        display: grid;
+        position: absolute;
+        height: 100%;
+        grid-template-columns: auto;
+        justify-items: center;
+    }
+
+    #popup-text {
         position: unset;
+        overflow: auto;
+        margin: 5%;
     }
 
     #popup-img {
-        width: 50%;
+        position: unset;
+        width: 20dvh;
     }
 
     .card-text {
@@ -227,5 +269,7 @@ body {
         background-image: linear-gradient(to left, rgb(5, 79, 135), rgb(13, 116, 176));
         border-bottom-left-radius: 0;
         border-top-right-radius: 10px;
+        display: grid;
+        grid-template-columns: auto;
     }
 }
