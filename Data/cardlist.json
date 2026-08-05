@@ -3,714 +3,840 @@
         "card_id": "001",
         "name": "[Q is for cuties] Chodan",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 200 damage every 3 turns."
+        "effect": "[Fight effect]\nDeals 200 damage every 3 turns.",
+        "ruling_note": null
     },
     "002": {
         "card_id": "002",
         "name": "[Sub Vocalist] Magenta",
         "rarity": "R",
-        "effect": "[Fight effect]\nIncreases DEF by 350."
+        "effect": "[Fight effect]\nIncreases DEF by 350.",
+        "ruling_note": null
     },
     "003": {
         "card_id": "003",
         "name": "[Comfortable] Hina",
         "rarity": "UC",
-        "effect": "[Fight effect]\nHeals 100 HP each turn."
+        "effect": "[Fight effect]\nHeals 100 HP each turn.",
+        "ruling_note": null
     },
     "004": {
         "card_id": "004",
         "name": "[Tasty drink] Siyeon",
         "rarity": "C",
-        "effect": "[Fight effect]\nHeals 50 HP each turn.\n[Trait bonus]\nThe healing is doubled if the other equipped card has the trait [Tasty drink]."
+        "effect": "[Fight effect]\nHeals 50 HP each turn.\n[Trait bonus]\nThe healing is doubled if the other equipped card has the trait [Tasty drink].",
+        "ruling_note": null
     },
     "005": {
         "card_id": "005",
         "name": "[Let the performance begin] Magenta",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants bonus ATK equal to 15% of the enemy's ATK."
+        "effect": "[Fight effect]\nGrants bonus ATK equal to 15% of the enemy's ATK.",
+        "ruling_note": null
     },
     "006": {
         "card_id": "006",
         "name": "[Sparkling like soda] Chodan",
         "rarity": "SR",
-        "effect": "[Fight effect]\nDeals critical damage equal to 200 + 40% ATK every 2 turns."
+        "effect": "[Fight effect]\nDeals critical damage equal to 200 + 40% ATK every 2 turns.",
+        "ruling_note": null
     },
     "007": {
         "card_id": "007",
         "name": "[Tasty drink] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nIncreases ATK by 50.\n[Trait bonus]\nThis effect is doubled if the other equipped card has the trait [Tasty drink]."
+        "effect": "[Fight effect]\nIncreases ATK by 50.\n[Trait bonus]\nThis effect is doubled if the other equipped card has the trait [Tasty drink].",
+        "ruling_note": null
     },
     "008": {
         "card_id": "008",
         "name": "[Cho is a puppy] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nLowers the enemy ATK by 100."
+        "effect": "[Fight effect]\nLowers the enemy ATK by 100.",
+        "ruling_note": null
     },
     "009": {
         "card_id": "009",
         "name": "[A new start] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants 5 AGI."
+        "effect": "[Fight effect]\nGrants 5 AGI.",
+        "ruling_note": null
     },
     "010": {
         "card_id": "010",
         "name": "[Elegant] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nAttacks have a 10% chance of inflicting critical damage, dealing 7% ATK more damage."
+        "effect": "[Fight effect]\nAttacks have a 10% chance of inflicting critical damage, dealing 7% ATK more damage.",
+        "ruling_note": null
     },
     "011": {
         "card_id": "011",
         "name": "[Fake drummer] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nDeals 50 damage with a 2-turns cooldown.\n[Trait bonus]\nThe damage is doubled if the other equipped card has a [Fake] trait."
+        "effect": "[Fight effect]\nDeals 50 damage with a 2-turns cooldown.\n[Trait bonus]\nThe damage is doubled if the other equipped card has a [Fake] trait.",
+        "ruling_note": null
     },
     "012": {
         "card_id": "012",
         "name": "[Fake prisoner] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nLowers the enemy ATK by 75.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Fake] trait."
+        "effect": "[Fight effect]\nLowers the enemy ATK by 75.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Fake] trait.",
+        "ruling_note": null
     },
     "013": {
         "card_id": "013",
         "name": "[Cho has a bear] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nHeals 75 HP each turn."
+        "effect": "[Fight effect]\nHeals 75 HP each turn.",
+        "ruling_note": null
     },
     "014": {
         "card_id": "014",
         "name": "[Lucky] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nAttacks have a 8% chance of inflicting critical damage, dealing 20% ATK more damage."
+        "effect": "[Fight effect]\nAttacks have a 8% chance of inflicting critical damage, dealing 20% ATK more damage.",
+        "ruling_note": null
     },
     "015": {
         "card_id": "015",
         "name": "[Fake idol] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nIncreases AGI by 10."
+        "effect": "[Fight effect]\nIncreases AGI by 10.",
+        "ruling_note": null
     },
     "016": {
         "card_id": "016",
         "name": "[Tasty drink] Magenta",
         "rarity": "C",
-        "effect": "[Fight effect]\nIncreases DEF by 50.\n[Trait bonus]\nThis effect is doubled if the other equipped card has the trait [Tasty drink]."
+        "effect": "[Fight effect]\nIncreases DEF by 50.\n[Trait bonus]\nThis effect is doubled if the other equipped card has the trait [Tasty drink].",
+        "ruling_note": null
     },
     "017": {
         "card_id": "017",
         "name": "[Fake bassist] Magenta",
         "rarity": "C",
-        "effect": "[Fight effect]\nDeals 65 damage with a 2-turns cooldown.\n[Trait bonus]\nThe damage becomes 113 if the other equipped card has a [Fake] trait."
+        "effect": "[Fight effect]\nDeals 65 damage with a 2-turns cooldown.\n[Trait bonus]\nThe damage becomes 113 if the other equipped card has a [Fake] trait.",
+        "ruling_note": null
     },
     "018": {
         "card_id": "018",
         "name": "[Fake prisoner] Magenta",
         "rarity": "C",
-        "effect": "[Fight effect]\nLowers the enemy ATK by 50.\n[Trait bonus]\nThe reduction value becomes 125 if the other equipped card has a [Fake] trait."
+        "effect": "[Fight effect]\nLowers the enemy ATK by 50.\n[Trait bonus]\nThe reduction value becomes 125 if the other equipped card has a [Fake] trait.",
+        "ruling_note": null
     },
     "019": {
         "card_id": "019",
         "name": "[Genta has a bear] Magenta",
         "rarity": "C",
-        "effect": "[Fight effect]\nHeals 100 HP each turn."
+        "effect": "[Fight effect]\nHeals 100 HP each turn.",
+        "ruling_note": null
     },
     "020": {
         "card_id": "020",
         "name": "[Lucky] Magenta",
         "rarity": "C",
-        "effect": "[Fight effect]\nAttacks have a 15% chance of inflicting critical damage, dealing 15% ATK more damage."
+        "effect": "[Fight effect]\nAttacks have a 15% chance of inflicting critical damage, dealing 15% ATK more damage.",
+        "ruling_note": null
     },
     "021": {
         "card_id": "021",
         "name": "[Fake idol] Magenta",
         "rarity": "C",
-        "effect": "[Fight effect]\nIncreases DEF by 100."
+        "effect": "[Fight effect]\nIncreases DEF by 100.",
+        "ruling_note": null
     },
     "022": {
         "card_id": "022",
         "name": "[On my way] Magenta",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants 50 DEF."
+        "effect": "[Fight effect]\nGrants 50 DEF.",
+        "ruling_note": null
     },
     "023": {
         "card_id": "023",
         "name": "[Elegant] Magenta",
         "rarity": "C",
-        "effect": "[Fight effect]\nAttacks have a 20% chance of inflicting critical damage, dealing 5% ATK more damage."
+        "effect": "[Fight effect]\nAttacks have a 20% chance of inflicting critical damage, dealing 5% ATK more damage.",
+        "ruling_note": null
     },
     "024": {
         "card_id": "024",
         "name": "[Mischievous wink] Magenta",
         "rarity": "C",
-        "effect": "[Fight effect]\nLowers the enemy DEF by 100."
+        "effect": "[Fight effect]\nLowers the enemy DEF by 100.",
+        "ruling_note": null
     },
     "025": {
         "card_id": "025",
         "name": "[Tasty drink] Hina",
         "rarity": "C",
-        "effect": "[Fight effect]\nDeals 75 damage with a 2 turns cooldown.\n[Trait bonus]\nThe cooldown is reduced by 1 if the other equipped card has the trait [Tasty drink]."
+        "effect": "[Fight effect]\nDeals 75 damage with a 2 turns cooldown.\n[Trait bonus]\nThe cooldown is reduced by 1 if the other equipped card has the trait [Tasty drink].",
+        "ruling_note": null
     },
     "026": {
         "card_id": "026",
         "name": "[Fake guitarist] Hina",
         "rarity": "C",
-        "effect": "[Fight effect]\nDeals 100 damage with a 2-turns cooldown.\n[Trait bonus]\nThe damage becomes 120 if the other equipped card has a [Fake] trait."
+        "effect": "[Fight effect]\nDeals 100 damage with a 2-turns cooldown.\n[Trait bonus]\nThe damage becomes 120 if the other equipped card has a [Fake] trait.",
+        "ruling_note": null
     },
     "027": {
         "card_id": "027",
         "name": "[Fake prisoner] Hina",
         "rarity": "C",
-        "effect": "[Fight effect]\nLowers the enemy DEF by 75.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Fake] trait."
+        "effect": "[Fight effect]\nLowers the enemy DEF by 75.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Fake] trait.",
+        "ruling_note": null
     },
     "028": {
         "card_id": "028",
         "name": "[Nyang-roaring bear] Hina",
         "rarity": "C",
-        "effect": "[Fight effect]\nHeals 100 HP each turn."
+        "effect": "[Fight effect]\nHeals 100 HP each turn.",
+        "ruling_note": null
     },
     "029": {
         "card_id": "029",
         "name": "[Lucky] Hina",
         "rarity": "C",
-        "effect": "[Fight effect]\nAttacks have a 20% chance of inflicting critical damage, dealing 5% ATK more damage."
+        "effect": "[Fight effect]\nAttacks have a 20% chance of inflicting critical damage, dealing 5% ATK more damage.",
+        "ruling_note": null
     },
     "030": {
         "card_id": "030",
         "name": "[Fake idol] Hina",
         "rarity": "C",
-        "effect": "[Fight effect]\nIncreases AGI by 8."
+        "effect": "[Fight effect]\nIncreases AGI by 8.",
+        "ruling_note": null
     },
     "031": {
         "card_id": "031",
         "name": "[Getting ready] Hina",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants 75 DEF."
+        "effect": "[Fight effect]\nGrants 75 DEF.",
+        "ruling_note": null
     },
     "032": {
         "card_id": "032",
         "name": "[Delicious cake] Hina",
         "rarity": "C",
-        "effect": "[Fight effect]\nHeals 85 HP each turn."
+        "effect": "[Fight effect]\nHeals 85 HP each turn.",
+        "ruling_note": null
     },
     "033": {
         "card_id": "033",
         "name": "[Fake NyangNyongNyeongNyang] Hina",
         "rarity": "C",
-        "effect": "[Fight effect]\nIncreases ATK by 85."
+        "effect": "[Fight effect]\nIncreases ATK by 85.",
+        "ruling_note": null
     },
     "034": {
         "card_id": "034",
         "name": "[Fake vocalist] Siyeon",
         "rarity": "C",
-        "effect": "[Fight effect]\nDeals 50 damage with a 2-turns cooldown.\n[Trait bonus]\nIf the other equipped card has a [Fake] trait, this effect has no cooldown."
+        "effect": "[Fight effect]\nDeals 50 damage with a 2-turns cooldown.\n[Trait bonus]\nIf the other equipped card has a [Fake] trait, this effect has no cooldown.",
+        "ruling_note": null
     },
     "035": {
         "card_id": "035",
         "name": "[Fake prisoner] Siyeon",
         "rarity": "C",
-        "effect": "[Fight effect]\nLowers the enemy AGI by 5.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Fake] trait."
+        "effect": "[Fight effect]\nLowers the enemy AGI by 5.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Fake] trait.",
+        "ruling_note": null
     },
     "036": {
         "card_id": "036",
         "name": "[Ming-bear] Siyeon",
         "rarity": "C",
-        "effect": "[Fight effect]\nHeals 50 HP each turn."
+        "effect": "[Fight effect]\nHeals 50 HP each turn.",
+        "ruling_note": null
     },
     "037": {
         "card_id": "037",
         "name": "[Lucky] Siyeon",
         "rarity": "C",
-        "effect": "[Fight effect]\nAttacks have a 50% chance of inflicting critical damage, dealing 2% ATK more damage."
+        "effect": "[Fight effect]\nAttacks have a 50% chance of inflicting critical damage, dealing 2% ATK more damage.",
+        "ruling_note": null
     },
     "038": {
         "card_id": "038",
         "name": "[Fake idol] Siyeon",
         "rarity": "C",
-        "effect": "[Fight effect]\nIncreases AGI by 5."
+        "effect": "[Fight effect]\nIncreases AGI by 5.",
+        "ruling_note": null
     },
     "039": {
         "card_id": "039",
         "name": "[Music on the go] Siyeon",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants 10 AGI."
+        "effect": "[Fight effect]\nGrants 10 AGI.",
+        "ruling_note": null
     },
     "040": {
         "card_id": "040",
         "name": "[Ming-deer] Siyeon",
         "rarity": "C",
-        "effect": "[Fight effect]\nEvery 3 attacks, one inflicts critical damage, dealing 7% ATK more damage."
+        "effect": "[Fight effect]\nEvery 3 attacks, one inflicts critical damage, dealing 7% ATK more damage.",
+        "ruling_note": null
     },
     "041": {
         "card_id": "041",
         "name": "[Pre-performance] Siyeon",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants 75 ATK."
+        "effect": "[Fight effect]\nGrants 75 ATK.",
+        "ruling_note": null
     },
     "042": {
         "card_id": "042",
         "name": "[Wrapped] Chodan",
         "rarity": "UC",
-        "effect": "[Fight effect]\nRecovers HP equals to 10% of the last damage taken."
+        "effect": "[Fight effect]\nRecovers HP equals to 10% of the last damage taken.",
+        "ruling_note": null
     },
     "043": {
         "card_id": "043",
         "name": "[Drums come true] Chodan",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 20% of the last damage taken (post-recover, prioritising card order) as additional damage."
+        "effect": "[Fight effect]\nDeals 20% of the last damage taken (post-recover, prioritising card order) as additional damage.",
+        "ruling_note": null
     },
     "044": {
         "card_id": "044",
         "name": "[Spacing out] Chodan",
         "rarity": "UC",
-        "effect": "[Fight effect]\nIncreases damage by 10% of the last damage inflicted to the enemy."
+        "effect": "[Fight effect]\nIncreases damage by 10% of the last damage inflicted to the enemy.",
+        "ruling_note": null
     },
     "045": {
         "card_id": "045",
         "name": "[Q-Hanbok] Chodan",
         "rarity": "UC",
-        "effect": "[Fight effect]\nLowers the enemy ATK by 120.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Hanbok] trait."
+        "effect": "[Fight effect]\nLowers the enemy ATK by 120.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Hanbok] trait.",
+        "ruling_note": null
     },
     "046": {
         "card_id": "046",
         "name": "[Healing gaze] Chodan",
         "rarity": "UC",
-        "effect": "[Fight effect]\nHeals 150 HP each turn."
+        "effect": "[Fight effect]\nHeals 150 HP each turn.",
+        "ruling_note": null
     },
     "047": {
         "card_id": "047",
         "name": "[Comforting] Chodan",
         "rarity": "UC",
-        "effect": "[Fight effect]\nLowers the enemy ATK by 150."
+        "effect": "[Fight effect]\nLowers the enemy ATK by 150.",
+        "ruling_note": null
     },
     "048": {
         "card_id": "048",
         "name": "[Bewitching] Chodan",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 150 damage with a 2-turns cooldown.\n[Trait bonus]\nThis card has no cooldown if the other equipped card has the trait [Bewitching]."
+        "effect": "[Fight effect]\nDeals 150 damage with a 2-turns cooldown.\n[Trait bonus]\nThis card has no cooldown if the other equipped card has the trait [Bewitching].",
+        "ruling_note": null
     },
     "049": {
         "card_id": "049",
         "name": "[Lively] Magenta",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 175 damage with a 2-turns cooldown.\n[Main bonus]\nIf this card is your Main card, the cooldown becomes 1 turn."
+        "effect": "[Fight effect]\nDeals 175 damage with a 2-turns cooldown.\n[Main bonus]\nIf this card is your Main card, the cooldown becomes 1 turn.",
+        "ruling_note": null
     },
     "050": {
         "card_id": "050",
         "name": "[Waking up] Magenta",
         "rarity": "UC",
-        "effect": "[Fight effect]\nGrants 200 DEF."
+        "effect": "[Fight effect]\nGrants 200 DEF.",
+        "ruling_note": null
     },
     "051": {
         "card_id": "051",
         "name": "[W-Hanbok] Magenta",
         "rarity": "UC",
-        "effect": "[Fight effect]\nLowers the enemy DEF by 120.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Hanbok] trait."
+        "effect": "[Fight effect]\nLowers the enemy DEF by 120.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Hanbok] trait.",
+        "ruling_note": null
     },
     "052": {
         "card_id": "052",
         "name": "[Comforting] Magenta",
         "rarity": "UC",
-        "effect": "[Fight effect]\nLowers the enemy DEF by 150."
+        "effect": "[Fight effect]\nLowers the enemy DEF by 150.",
+        "ruling_note": null
     },
     "053": {
         "card_id": "053",
         "name": "[Results of training] Magenta",
         "rarity": "UC",
-        "effect": "[Fight effect]\nIncreases damage by 40 + 10% of the last damage inflicted to the enemy.\n[Trait bonus]\nThe scaling percentage of this effect becomes 20% if the other equipped card has the trait [Results of]."
+        "effect": "[Fight effect]\nIncreases damage by 40 + 10% of the last damage inflicted to the enemy.\n[Trait bonus]\nThe scaling percentage of this effect becomes 20% if the other equipped card has the trait [Results of].",
+        "ruling_note": null
     },
     "054": {
         "card_id": "054",
         "name": "[Team QWER - number 62] Magenta",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 40 + 5% of the last damage taken (post-recover, prioritising card order) as additional damage."
+        "effect": "[Fight effect]\nDeals 40 + 5% of the last damage taken (post-recover, prioritising card order) as additional damage.",
+        "ruling_note": null
     },
     "055": {
         "card_id": "055",
         "name": "[Glass(es) cannon] Magenta",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 250 damage every 3 turns, but lowers DEF by 50."
+        "effect": "[Fight effect]\nDeals 250 damage every 3 turns, but lowers DEF by 50.",
+        "ruling_note": null
     },
     "056": {
         "card_id": "056",
         "name": "[Harmony from Genta] Magenta",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 150 damage with a 2-turns cooldown.\n[Main bonus]\nIf this card is your Main card, the damage is increased by 100."
+        "effect": "[Fight effect]\nDeals 150 damage with a 2-turns cooldown.\n[Main bonus]\nIf this card is your Main card, the damage is increased by 100.",
+        "ruling_note": null
     },
     "057": {
         "card_id": "057",
         "name": "[Winking] Hina",
         "rarity": "UC",
-        "effect": "[Fight effect]\nGrants 150 ATK.\n[Main bonus]\nIf this card is your Main card, gain an additional 100 ATK."
+        "effect": "[Fight effect]\nGrants 150 ATK.\n[Main bonus]\nIf this card is your Main card, gain an additional 100 ATK.",
+        "ruling_note": null
     },
     "058": {
         "card_id": "058",
         "name": "[E-Hanbok] Hina",
         "rarity": "UC",
-        "effect": "[Fight effect]\nLowers the enemy AGI by 5.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Hanbok] trait."
+        "effect": "[Fight effect]\nLowers the enemy AGI by 5.\n[Trait bonus]\nThe effect is doubled if the other equipped card has a [Hanbok] trait.",
+        "ruling_note": null
     },
     "059": {
         "card_id": "059",
         "name": "[Puffy plushie] Hina",
         "rarity": "UC",
-        "effect": "[Fight effect]\nRecovers HP equals to 100 + 5% of the last damage taken."
+        "effect": "[Fight effect]\nRecovers HP equals to 100 + 5% of the last damage taken.",
+        "ruling_note": null
     },
     "060": {
         "card_id": "060",
         "name": "[Bewitching] Hina",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 100 damage with a 2-turns cooldown.\n[Trait bonus]\nThis card has no cooldown if the other equipped card has the trait [Bewitching]."
+        "effect": "[Fight effect]\nDeals 100 damage with a 2-turns cooldown.\n[Trait bonus]\nThis card has no cooldown if the other equipped card has the trait [Bewitching].",
+        "ruling_note": null
     },
     "061": {
         "card_id": "061",
         "name": "[Relaxed] Hina",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 250 damage every 3 turns.\n[Main bonus]\nIf this card is your Main card, damage is increased by 100."
+        "effect": "[Fight effect]\nDeals 250 damage every 3 turns.\n[Main bonus]\nIf this card is your Main card, damage is increased by 100.",
+        "ruling_note": null
     },
     "062": {
         "card_id": "062",
         "name": "[Mikasa] Hina",
         "rarity": "UC",
-        "effect": "[Fight effect]\nRecovers 50 HP each turn, and deals 150 damage every 3 turns."
+        "effect": "[Fight effect]\nRecovers 50 HP each turn, and deals 150 damage every 3 turns.",
+        "ruling_note": null
     },
     "063": {
         "card_id": "063",
         "name": "[NyangNyong-glasses] Hina",
         "rarity": "UC",
-        "effect": "[Fight effect]\nLowers the enemy ATK by 125."
+        "effect": "[Fight effect]\nLowers the enemy ATK by 125.",
+        "ruling_note": null
     },
     "064": {
         "card_id": "064",
         "name": "[Cozy] Siyeon",
         "rarity": "UC",
-        "effect": "[Fight effect]\nRecovers HP equals to 20 + 5% of the last damage taken."
+        "effect": "[Fight effect]\nRecovers HP equals to 20 + 5% of the last damage taken.",
+        "ruling_note": null
     },
     "065": {
         "card_id": "065",
         "name": "[Mingming] Siyeon",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 175 damage with a 2-turns cooldown.\n[Main bonus]\nIf this card is your Main card, it deals 275 damage instead."
+        "effect": "[Fight effect]\nDeals 175 damage with a 2-turns cooldown.\n[Main bonus]\nIf this card is your Main card, it deals 275 damage instead.",
+        "ruling_note": null
     },
     "066": {
         "card_id": "066",
         "name": "[R-Hanbok] Siyeon",
         "rarity": "UC",
-        "effect": "[Fight effect]\nLowers the enemy ATK by 80.\n[Trait bonus]\nThe ATK reduction becomes 320 if the other equipped card has a [Hanbok] trait."
+        "effect": "[Fight effect]\nLowers the enemy ATK by 80.\n[Trait bonus]\nThe ATK reduction becomes 320 if the other equipped card has a [Hanbok] trait.",
+        "ruling_note": null
     },
     "067": {
         "card_id": "067",
         "name": "[Plush-ming] Siyeon",
         "rarity": "UC",
-        "effect": "[Fight effect]\nRecovers 175 HP each turn.\n[Main bonus]\nRecovers 75 more HP each turn if this is your Main card."
+        "effect": "[Fight effect]\nRecovers 175 HP each turn.\n[Main bonus]\nRecovers 75 more HP each turn if this is your Main card.",
+        "ruling_note": null
     },
     "068": {
         "card_id": "068",
         "name": "[Results of a strong will] Siyeon",
         "rarity": "UC",
-        "effect": "[Fight effect]\nIncreases damage by 20 + 10% of the last damage inflicted to the enemy.\n[Trait bonus]\nThis card's base damage becomes 80 if the other equipped card has the trait [Results of]."
+        "effect": "[Fight effect]\nIncreases damage by 20 + 10% of the last damage inflicted to the enemy.\n[Trait bonus]\nThis card's base damage becomes 80 if the other equipped card has the trait [Results of].",
+        "ruling_note": null
     },
     "069": {
         "card_id": "069",
         "name": "[Preparing] Siyeon",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 125 damage with a 1-turn cooldown.\n[Main bonus]\nIf this is your Main card, it has no cooldown."
+        "effect": "[Fight effect]\nDeals 125 damage with a 1-turn cooldown.\n[Main bonus]\nIf this is your Main card, it has no cooldown.",
+        "ruling_note": null
     },
     "070": {
         "card_id": "070",
         "name": "[Mastering guitar] Siyeon",
         "rarity": "UC",
-        "effect": "[Fight effect]\nDeals 300 damage every 3 turns, but lowers DEF by 100."
+        "effect": "[Fight effect]\nDeals 300 damage every 3 turns, but lowers DEF by 100.",
+        "ruling_note": null
     },
     "071": {
         "card_id": "071",
         "name": "[Ming-ha] Siyeon",
         "rarity": "UC",
-        "effect": "[Fight effect]\nAttacks have a 15% chance of inflicting critical damage, dealing 25% ATK more damage."
+        "effect": "[Fight effect]\nAttacks have a 15% chance of inflicting critical damage, dealing 25% ATK more damage.",
+        "ruling_note": null
     },
     "072": {
         "card_id": "072",
         "name": "[K-Darts Festival] Chodan",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants 5 more Fragments on Fragment Hit."
+        "effect": "[Fight effect]\nGrants 5 more Fragments on Fragment Hit.",
+        "ruling_note": null
     },
     "073": {
         "card_id": "073",
         "name": "[Fansign idol] Chodan",
         "rarity": "R",
-        "effect": "[Fight effect]\nIncreases Fragment Hit Chance by 20%."
+        "effect": "[Fight effect]\nIncreases Fragment Hit Chance by 20%.",
+        "ruling_note": null
     },
     "074": {
         "card_id": "074",
         "name": "[Leader of Manito High Band] Chodan",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants 400 ATK.\n[Trait bonus]\nGrants an additional bonus of 20 AGI if the other equipped card has a [Manito High Band] trait."
+        "effect": "[Fight effect]\nGrants 400 ATK.\n[Trait bonus]\nGrants an additional bonus of 20 AGI if the other equipped card has a [Manito High Band] trait.",
+        "ruling_note": null
     },
     "075": {
         "card_id": "075",
         "name": "[Getting ready to drum] Chodan",
         "rarity": "R",
-        "effect": "[Fight effect]\nIncreases DEF by 150 and ATK by 250."
+        "effect": "[Fight effect]\nIncreases DEF by 150 and ATK by 250.",
+        "ruling_note": null
     },
     "076": {
         "card_id": "076",
         "name": "[Harmony from Discord] Chodan",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants 4 more Fragments on Fragment Hit.\n[Trait bonus]\nFragment Hits deal 200 damage if the other equipped card has the trait [Harmony from Discord]."
+        "effect": "[Fight effect]\nGrants 4 more Fragments on Fragment Hit.\n[Trait bonus]\nFragment Hits deal 200 damage if the other equipped card has the trait [Harmony from Discord].",
+        "ruling_note": null
     },
     "077": {
         "card_id": "077",
         "name": "[Harmony from Discord] Magenta",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants 10 more Fragments on Fragment Hit.\n[Trait bonus]\nFragment Hits deal 100 damage if the other equipped card has the trait [Harmony from Discord]."
+        "effect": "[Fight effect]\nGrants 10 more Fragments on Fragment Hit.\n[Trait bonus]\nFragment Hits deal 100 damage if the other equipped card has the trait [Harmony from Discord].",
+        "ruling_note": null
     },
     "078": {
         "card_id": "078",
         "name": "[Shy bassist of Manito High Band] Magenta",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants 400 DEF.\n[Trait bonus]\nIncreases Fragment Hit Chance by 15% if the other equipped card has a [Manito High Band] trait."
+        "effect": "[Fight effect]\nGrants 400 DEF.\n[Trait bonus]\nIncreases Fragment Hit Chance by 15% if the other equipped card has a [Manito High Band] trait.",
+        "ruling_note": null
     },
     "079": {
         "card_id": "079",
         "name": "[Towards a bright future] Magenta",
         "rarity": "R",
-        "effect": "[Fight effect]\nInflicts 150 + 25% ATK every 3 turns.\n[Main bonus]\nIf this is your Main Card, gain an amount of bonus Discord Fragments equals to 25% of the enemy's base Discord Fragment drop on Fragment Hit."
+        "effect": "[Fight effect]\nInflicts 150 + 25% ATK every 3 turns.\n[Main bonus]\nIf this is your Main Card, gain an amount of bonus Discord Fragments equals to 25% of the enemy's base Discord Fragment drop on Fragment Hit.",
+        "ruling_note": null
     },
     "080": {
         "card_id": "080",
         "name": "[Harmony from Discord] Hina",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants 1 bonus Fragment every turn.\n[Trait bonus]\nThis card deals 100 damage for each Fragment gained this way if the other equipped card has the trait [Harmony from Discord]."
+        "effect": "[Fight effect]\nGrants 1 bonus Fragment every turn.\n[Trait bonus]\nThis card deals 100 damage for each Fragment gained this way if the other equipped card has the trait [Harmony from Discord].",
+        "ruling_note": null
     },
     "081": {
         "card_id": "081",
         "name": "[Guitar of Manito High Band] Hina",
         "rarity": "R",
-        "effect": "[Fight effect]\nIncreases either ATK or DEF by 400. The stat to be chosen is randomly determined each game.\n[Trait bonus]\nIncreases Fragment Hit Chance by 18% if the other equipped card has a [Manito High Band] trait."
+        "effect": "[Fight effect]\nIncreases either ATK or DEF by 400. The stat to be chosen is randomly determined each game.\n[Trait bonus]\nIncreases Fragment Hit Chance by 18% if the other equipped card has a [Manito High Band] trait.",
+        "ruling_note": null
     },
     "082": {
         "card_id": "082",
         "name": "[Practice makes perfect] Hina",
         "rarity": "R",
-        "effect": "[Fight effect]\nIncreases Fragment Hit Chance by 5% each turn."
+        "effect": "[Fight effect]\nIncreases Fragment Hit Chance by 5% each turn.",
+        "ruling_note": null
     },
     "083": {
         "card_id": "083",
         "name": "[Cherish every moment] Hina",
         "rarity": "R",
-        "effect": "[Fight effect]\nDeals 300 damage every 3 turns.\n[Main bonus]\nDouble the damage dealt by this card if it is in your Main slot."
+        "effect": "[Fight effect]\nDeals 300 damage every 3 turns.\n[Main bonus]\nDouble the damage dealt by this card if it is in your Main slot.",
+        "ruling_note": null
     },
     "084": {
         "card_id": "084",
         "name": "[Morning selca] Hina",
         "rarity": "R",
-        "effect": "[Fight effect]\nRestores 20% of missing health every turn."
+        "effect": "[Fight effect]\nRestores 20% of missing health every turn.",
+        "ruling_note": null
     },
     "085": {
         "card_id": "085",
         "name": "[Harmony from Discord] Siyeon",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants bonus Fragments equals to 20% of your current bonus Fragments on Fragment Hit (this includes both Fragment Hit bonus and the other equipped card's Fragment bonus, if any).\n[Trait bonus]\nGrants 50% of bonus Fragments instead if the other equipped card has the trait [Harmony from Discord]."
+        "effect": "[Fight effect]\nGrants bonus Fragments equals to 20% of your current bonus Fragments on Fragment Hit (this includes both Fragment Hit bonus and the other equipped card's Fragment bonus, if any).\n[Trait bonus]\nGrants 50% of bonus Fragments instead if the other equipped card has the trait [Harmony from Discord].",
+        "ruling_note": null
     },
     "086": {
         "card_id": "086",
         "name": "[Vocalist of Manito High Band] Siyeon",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants an amount of ATK randomly picked at the start of the combat, ranging from 150 to 600.\n[Trait bonus]\nThe amount of ATK gained is fixed to 600 if the other equipped card has a [Manito High Band] trait."
+        "effect": "[Fight effect]\nGrants an amount of ATK randomly picked at the start of the combat, ranging from 150 to 600.\n[Trait bonus]\nThe amount of ATK gained is fixed to 600 if the other equipped card has a [Manito High Band] trait.",
+        "ruling_note": null
     },
     "087": {
         "card_id": "087",
         "name": "[Adaptive vocal skills] Siyeon",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants 20 AGI.\n[Slot bonus]\nGains the following effect, based on the slot this card is equipped to:\n* Main: grants 300 ATK;\n* Sub: grants 300 DEF."
+        "effect": "[Fight effect]\nGrants 20 AGI.\n[Slot bonus]\nGains the following effect, based on the slot this card is equipped to:\n* Main: grants 300 ATK;\n* Sub: grants 300 DEF.",
+        "ruling_note": null
     },
     "088": {
         "card_id": "088",
         "name": "[Unkillable vocal queen] Siyeon",
         "rarity": "R",
-        "effect": "[Fight effect]\nIncreases ATK by 250 + 15% ATK."
+        "effect": "[Fight effect]\nIncreases ATK by 250 + 15% ATK.",
+        "ruling_note": null
     },
     "089": {
         "card_id": "089",
         "name": "[Perfor-ming] Siyeon",
         "rarity": "R",
-        "effect": "[Fight effect]\nIncreases DEF by 250 + 15% DEF."
+        "effect": "[Fight effect]\nIncreases DEF by 250 + 15% DEF.",
+        "ruling_note": null
     },
     "090": {
         "card_id": "090",
         "name": "[Ultimate fansign manifestation] Chodan",
         "rarity": "SR",
-        "effect": "[Fight effect]\nGrants more Fragments on Fragment Hit for a total of 10 + 50% base Fragment drop."
+        "effect": "[Fight effect]\nGrants more Fragments on Fragment Hit for a total of 10 + 50% base Fragment drop.",
+        "ruling_note": null
     },
     "091": {
         "card_id": "091",
         "name": "[Orchestral Harmony] Chodan",
         "rarity": "SR",
-        "effect": "[Fight effect]\nDeals 200 + 25% of the enemy's DEF as damage, with a 2-turns cooldown.\n[Trait bonus]\nThe damage dealt becomes 300 + 30% of the enemy's DEF if the other equipped card has the trait [Orchestral Harmony]."
+        "effect": "[Fight effect]\nDeals 200 + 25% of the enemy's DEF as damage, with a 2-turns cooldown.\n[Trait bonus]\nThe damage dealt becomes 300 + 30% of the enemy's DEF if the other equipped card has the trait [Orchestral Harmony].",
+        "ruling_note": null
     },
     "092": {
         "card_id": "092",
         "name": "[Bass boost] Magenta",
         "rarity": "SR",
-        "effect": "[Fight effect]\nGrants 600 ATK. Also deals damage equal to 100 + 25% ATK every 2 turns."
+        "effect": "[Fight effect]\nGrants 600 ATK. Also deals damage equal to 100 + 25% ATK every 2 turns.",
+        "ruling_note": null
     },
     "093": {
         "card_id": "093",
         "name": "[Orchestral Harmony] Magenta",
         "rarity": "SR",
-        "effect": "[Fight effect]\nEach turn, heals HP for total of 100 + 25% of the last damage taken.\n[Trait bonus]\nThe HP healing becomes 250 + 25% of the last damage taken + 0.1% DEF if the other equipped card has the trait [Orchestral Harmony]."
+        "effect": "[Fight effect]\nEach turn, heals HP for total of 100 + 25% of the last damage taken.\n[Trait bonus]\nThe HP healing becomes 250 + 25% of the last damage taken + 0.1% DEF if the other equipped card has the trait [Orchestral Harmony].",
+        "ruling_note": null
     },
     "094": {
         "card_id": "094",
         "name": "[Fake idol awakened] Magenta",
         "rarity": "SR",
-        "effect": "[Fight effect]\nGrants 200 ATK. Also gains the following effect:\n* If the enemy's ATK is more than 150% of yours, this card recovers 25% of your missing health every turn.\n[Main bonus]\nIf this card is in your Main slot, the healing value for the additional effect becomes 35% of your missing health.\n[Trait bonus]\nIf the other equipped card has a [Fake] trait, the condition for the additional effect is lowered to 125% of your ATK."
+        "effect": "[Fight effect]\nGrants 200 ATK. Also gains the following effect:\n* If the enemy's ATK is more than 150% of yours, this card recovers 25% of your missing health every turn.\n[Main bonus]\nIf this card is in your Main slot, the healing value for the additional effect becomes 35% of your missing health.\n[Trait bonus]\nIf the other equipped card has a [Fake] trait, the condition for the additional effect is lowered to 125% of your ATK.",
+        "ruling_note": null
     },
     "095": {
         "card_id": "095",
         "name": "[Victorious] Hina",
         "rarity": "SR",
-        "effect": "[Fight effect]\nDeals damage equal to 500 + 15% ATK every 2 turns."
+        "effect": "[Fight effect]\nDeals damage equal to 500 + 15% ATK every 2 turns.",
+        "ruling_note": null
     },
     "096": {
         "card_id": "096",
         "name": "[Orchestral Harmony] Hina",
         "rarity": "SR",
-        "effect": "[Fight effect]\nIncreases ATK by 400 + 40% of the enemy's ATK.\n[Trait bonus]\nThe value becomes 500 + 50% of the enemy's ATK if the other equipped card has the trait [Orchestral Harmony]."
+        "effect": "[Fight effect]\nIncreases ATK by 400 + 40% of the enemy's ATK.\n[Trait bonus]\nThe value becomes 500 + 50% of the enemy's ATK if the other equipped card has the trait [Orchestral Harmony].",
+        "ruling_note": null
     },
     "097": {
         "card_id": "097",
         "name": "[Yor] Hina",
         "rarity": "SR",
-        "effect": "[Fight effect]\nGrants 5 bonus Fragments every turn. Each turn, there is a 25% chance of dealing 75 damage for each Fragment gained by this effect."
+        "effect": "[Fight effect]\nGrants 5 bonus Fragments every turn. Each turn, there is a 25% chance of dealing 75 damage for each Fragment gained by this effect.",
+        "ruling_note": null
     },
     "098": {
         "card_id": "098",
         "name": "[CASS-cool] Siyeon",
         "rarity": "SR",
-        "effect": "[Fight effect]\nHeals 400 HP each turn.\n[Slot bonus]\nGains the following effect, based on the slot this card is equipped to:\n* Main: increases ATK by 600 + 15% DEF;\n* Sub: increases DEF by 600 + 15% ATK."
+        "effect": "[Fight effect]\nHeals 400 HP each turn.\n[Slot bonus]\nGains the following effect, based on the slot this card is equipped to:\n* Main: increases ATK by 600 + 15% DEF;\n* Sub: increases DEF by 600 + 15% ATK.",
+        "ruling_note": null
     },
     "099": {
         "card_id": "099",
         "name": "[Orchestral Harmony] Siyeon",
         "rarity": "SR",
-        "effect": "[Fight effect]\nIncreases DEF by 400 + 40% of the enemy's DEF.\n[Trait bonus]\nThe value becomes 500 + 50% of the enemy's DEF if the other equipped card has the trait [Orchestral Harmony]."
+        "effect": "[Fight effect]\nIncreases DEF by 400 + 40% of the enemy's DEF.\n[Trait bonus]\nThe value becomes 500 + 50% of the enemy's DEF if the other equipped card has the trait [Orchestral Harmony].",
+        "ruling_note": null
     },
     "100": {
         "card_id": "100",
         "name": "[Risking it all] Siyeon",
         "rarity": "SR",
-        "effect": "[Fight effect]\nGrants an amount of ATK randomly picked at the start of the combat, ranging from 0 to 800.\n[Main bonus]\nLowers the enemy's ATK by the same amount if this is your Main card."
+        "effect": "[Fight effect]\nGrants an amount of ATK randomly picked at the start of the combat, ranging from 0 to 800.\n[Main bonus]\nLowers the enemy's ATK by the same amount if this is your Main card.",
+        "ruling_note": null
     },
     "101": {
         "card_id": "101",
         "name": "[Arcane Jinx] Chodan",
         "rarity": "HEX",
-        "effect": "[Fight effect]\nIncreases Fragment Hit Chance by 25%. Also gains one of the following effects, based on your character:\n* Chodan: attacks have 25% chance of inflicting 20% of the enemy's current HP as critical damage;\n* Magenta: attacks have 25% chance of generating 5 Sparks; this card deals 40 damage for each Spark gained this way (each fight starts with 0 Sparks);\n* Hina: attacks have 25% chance of generating Energy, ranging from 1 to 5; at 10 Energy, this card inflicts 25% ATK as critical damage;\n* Siyeon: start the combat with 250 Fury, which is then increased by 12% each turn; attacks have 25% chance of firing \"Super Mega Death Rocket\", inflicting damage equal to Fury; each time \"Super Mega Death Rocket\" is fired, Fury returns to its initial value.\n[Trait bonus]\nFragment Hit Chance is increased by 30% instead if the other equipped card has an [Arcane] trait."
+        "effect": "[Fight effect]\nIncreases Fragment Hit Chance by 25%. Also gains one of the following effects, based on your character:\n* Chodan: attacks have 25% chance of inflicting 20% of the enemy's current HP as critical damage;\n* Magenta: attacks have 25% chance of generating 5 Sparks; this card deals 40 damage for each Spark gained this way (each fight starts with 0 Sparks);\n* Hina: attacks have 25% chance of generating Energy, ranging from 1 to 5; at 10 Energy, this card inflicts 25% ATK as critical damage;\n* Siyeon: start the combat with 250 Fury, which is then increased by 12% each turn; attacks have 25% chance of firing \"Super Mega Death Rocket\", inflicting damage equal to Fury; each time \"Super Mega Death Rocket\" is fired, Fury returns to its initial value.\n[Trait bonus]\nFragment Hit Chance is increased by 30% instead if the other equipped card has an [Arcane] trait.",
+        "ruling_note": null
     },
     "102": {
         "card_id": "102",
         "name": "[Arcane Caitlyn] Magenta",
         "rarity": "HEX",
-        "effect": "[Fight effect]\nIncreases ATK by 500 + 20% ATK. If this card is equipped to Magenta, it gains the following effect:\n* Start the combat with an empty Aim gauge; attacks increase Aim by a random value between 50 and 250; once Magenta has inflicted 1000 total damage, this card fires \"Piltover Peacemaker\", dealing critical damage equal to the total Aim gained by this effect.\n[Trait bonus]\nIncreases Fragment Hit Chance by 10% if the other equipped card has an [Arcane] trait."
+        "effect": "[Fight effect]\nIncreases ATK by 500 + 20% ATK. If this card is equipped to Magenta, it gains the following effect:\n* Start the combat with an empty Aim gauge; attacks increase Aim by a random value between 50 and 250; once Magenta has inflicted 1000 total damage, this card fires \"Piltover Peacemaker\", dealing critical damage equal to the total Aim gained by this effect.\n[Trait bonus]\nIncreases Fragment Hit Chance by 10% if the other equipped card has an [Arcane] trait.",
+        "ruling_note": null
     },
     "103": {
         "card_id": "103",
         "name": "[Arcane Black Rose] Hina",
         "rarity": "HEX",
-        "effect": "[Fight effect]\nAt the start of the combat, enters one of the following modes, each granting a different effect:\n* Consume: each turn, recovers HP by 10% of the damage recieved, and inflicts the same amount as damage to the opponent;\n* Control: attacks deal 20% ATK critical damage if the enemy's HP are above 60%;\n* Scheme: attacks deal 20% ATK critical damage if the enemy's HP are below 40%;\n* Bind: each turn, there is a 25% chance of inflicting Card Restriction, negating any card effects to be activated by your opponent during their next turn.\n[Trait bonus]\nIncreases Fragment Hit Chance by 10% if the other equipped card has an [Arcane] trait."
+        "effect": "[Fight effect]\nAt the start of the combat, enters one of the following modes, each granting a different effect:\n* Consume: each turn, recovers HP by 10% of the damage recieved, and inflicts the same amount as damage to the opponent;\n* Control: attacks deal 20% ATK critical damage if the enemy's HP are above 60%;\n* Scheme: attacks deal 20% ATK critical damage if the enemy's HP are below 40%;\n* Bind: each turn, there is a 25% chance of inflicting Card Restriction, negating any card effects to be activated by your opponent during their next turn.\n[Trait bonus]\nIncreases Fragment Hit Chance by 10% if the other equipped card has an [Arcane] trait.",
+        "ruling_note": null
     },
     "104": {
         "card_id": "104",
         "name": "[Arcane superfan Annie] Siyeon",
         "rarity": "HEX",
-        "effect": "[Fight effect]\nIncreases DEF by 500 + 20% DEF. If this card is equipped to Siyeon, it gains the following effect:\n* Unleashes \"Arcane-mania\", dealing 20% ATK critical damage and inflicting Stun to the opponent, making them unable to attack on the following turn (card effects can still be used); \"Arcane-mania\" has a cooldown of 4 turns.\n[Trait bonus]\nIncreases Fragment Hit Chance by 10% if the other equipped card has an [Arcane] trait."
+        "effect": "[Fight effect]\nIncreases DEF by 500 + 20% DEF. If this card is equipped to Siyeon, it gains the following effect:\n* Unleashes \"Arcane-mania\", dealing 20% ATK critical damage and inflicting Stun to the opponent, making them unable to attack on the following turn (card effects can still be used); \"Arcane-mania\" has a cooldown of 4 turns.\n[Trait bonus]\nIncreases Fragment Hit Chance by 10% if the other equipped card has an [Arcane] trait.",
+        "ruling_note": null
     },
     "105": {
         "card_id": "105",
         "name": "[Happy moments] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants 10 STR."
+        "effect": "[Fight effect]\nGrants 10 STR.",
+        "ruling_note": null
     },
     "106": {
         "card_id": "106",
         "name": "[Panda cutie] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants 10 GUARD."
+        "effect": "[Fight effect]\nGrants 10 GUARD.",
+        "ruling_note": null
     },
     "107": {
         "card_id": "107",
         "name": "[Focus on me] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants 10 MAGIC RESIST."
+        "effect": "[Fight effect]\nGrants 10 MAGIC RESIST.",
+        "ruling_note": null
     },
     "108": {
         "card_id": "108",
         "name": "[Drummer in black] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants 10 AGI.\n[Member bonus]\nThis effect is doubled if the other equipped card is also a Chodan card."
+        "effect": "[Fight effect]\nGrants 10 AGI.\n[Member bonus]\nThis effect is doubled if the other equipped card is also a Chodan card.",
+        "ruling_note": null
     },
     "109": {
         "card_id": "109",
         "name": "[In doubt?] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants 5 GUARD and MAGIC RESIST."
+        "effect": "[Fight effect]\nGrants 5 GUARD and MAGIC RESIST.",
+        "ruling_note": null
     },
     "111": {
         "card_id": "111",
         "name": "[Trading gifts] Chodan",
         "rarity": "C",
-        "effect": "\n[Fight effect]\nGrants 5 GUARD and MAGIC RESIST, but lowers ATK by 100."
+        "effect": "\n[Fight effect]\nGrants 5 GUARD and MAGIC RESIST, but lowers ATK by 100.",
+        "ruling_note": null
     },
     "117": {
         "card_id": "117",
         "name": "[Wink catching you off guard] Magenta",
         "rarity": "C",
-        "effect": "[Fight effect]\nLowers the enemy GUARD by 10."
+        "effect": "[Fight effect]\nLowers the enemy GUARD by 10.",
+        "ruling_note": null
     },
     "119": {
         "card_id": "119",
         "name": "[Confusing] Magenta",
         "rarity": "C",
-        "effect": "\n[Fight effect]\nEach turn, there is a 20% chance to inflict Stun. This effect can only be used once per fight."
+        "effect": "\n[Fight effect]\nEach turn, there is a 20% chance to inflict Stun. This effect can only be used once per fight.",
+        "ruling_note": null
     },
     "127": {
         "card_id": "127",
         "name": "[Spell-breaking gaze] Hina",
         "rarity": "C",
-        "effect": "[Fight effect]\nLowers the enemy MAGIC RESIST by 10."
+        "effect": "[Fight effect]\nLowers the enemy MAGIC RESIST by 10.",
+        "ruling_note": null
     },
     "140": {
         "card_id": "140",
         "name": "[Charming] Siyeon",
         "rarity": "C",
-        "effect": "[Fight effect]\nLowers the enemy STR by 10."
+        "effect": "[Fight effect]\nLowers the enemy STR by 10.",
+        "ruling_note": null
     },
     "144": {
         "card_id": "144",
         "name": "[Healing trip] Chodan",
         "rarity": "UC",
-        "effect": "[Fight effect]\nHeals a random amount of HP each turn between [50/100/125/200]."
+        "effect": "[Fight effect]\nHeals a random amount of HP each turn between [50/100/125/200].",
+        "ruling_note": null
     },
     "161": {
         "card_id": "161",
         "name": "[Fluffy protection] Hina",
         "rarity": "UC",
-        "effect": "[Fight effect]\nIf this card is equipped as your sub card, it restores any debuff inflicted by your main card."
+        "effect": "[Fight effect]\nIf this card is equipped as your sub card, it restores any debuff inflicted by your main card.",
+        "ruling_note": null
     },
     "173": {
         "card_id": "173",
         "name": "[Royal leader] Chodan",
         "rarity": "R",
-        "effect": "[Fight effect]\nGrants 50 MANA. The following bonuses are applied in order.\n[Trait bonus]\nThis effect is doubled if the other equipped card has a [Royal] trait.\n[Member bonus]\nThis effect is 150% as effective if the other equipped card is a different member's card."
+        "effect": "[Fight effect]\nGrants 50 MANA. The following bonuses are applied in order.\n[Trait bonus]\nThis effect is doubled if the other equipped card has a [Royal] trait.\n[Member bonus]\nThis effect is 150% as effective if the other equipped card is a different member's card.",
+        "ruling_note": null
     },
     "174": {
         "card_id": "174",
         "name": "[Drum Queen] Chodan",
         "rarity": "R",
-        "effect": "[Fight effect]\nRegenerates 5 MANA each turn. The following bonuses are applied in order.\n[Trait bonus]\nThis effect is doubled if the other equipped card has a [Queen] trait.\n[Member bonus]\nThis effect is 150% as effective if the other equipped card is a different member's card."
+        "effect": "[Fight effect]\nRegenerates 5 MANA each turn. The following bonuses are applied in order.\n[Trait bonus]\nThis effect is doubled if the other equipped card has a [Queen] trait.\n[Member bonus]\nThis effect is 150% as effective if the other equipped card is a different member's card.",
+        "ruling_note": null
     },
     "175": {
         "card_id": "175",
         "name": "[Teenteen Student - Q] Chodan",
         "rarity": "R",
-        "effect": "[Fight effect]\nEach turn, there is a 5% chance of inflicting Card Restriction, negating any card effects to be activated by your opponent during their next turn.\n[Trait bonus]\nThe chance becomes 15% if the other equipped card has the trait [Teenteen]. Then, if it also shares the sub-trait [Student], the chance becomes 20% instead."
+        "effect": "[Fight effect]\nEach turn, there is a 5% chance of inflicting Card Restriction, negating any card effects to be activated by your opponent during their next turn.\n[Trait bonus]\nThe chance becomes 15% if the other equipped card has the trait [Teenteen]. Then, if it also shares the sub-trait [Student], the chance becomes 20% instead.",
+        "ruling_note": null
+    },
+    "180": {
+        "card_id": "180",
+        "name": "[Teenteen Student - W] Magenta",
+        "rarity": "R",
+        "effect": "[Fight effect]\nWhen an opponent's card effect is negated, this card inflicts 250 damage to your opponent.\n[Trait bonus]\n?",
+        "ruling_note": "If the opponent is Card Restricted and has 2 cards, this card triggers twice."
     }
 }
