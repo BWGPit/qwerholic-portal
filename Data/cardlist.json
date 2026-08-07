@@ -980,11 +980,29 @@
         "trait": null,
         "subtrait": null
     },
+    "110": {
+        "card_id": "110",
+        "name": "[Tiny help] Chodan",
+        "rarity": "C",
+        "effect": "[Fight effect]\nRestores HP every turn by an amount of 2% DEF.",
+        "ruling_note": null,
+        "trait": null,
+        "subtrait": null
+    },
     "111": {
         "card_id": "111",
         "name": "[Trading gifts] Chodan",
         "rarity": "C",
         "effect": "\n[Fight effect]\nGrants 5 GUARD and MAGIC RESIST, but lowers ATK by 100.",
+        "ruling_note": null,
+        "trait": null,
+        "subtrait": null
+    },
+    "112": {
+        "card_id": "112",
+        "name": "[Days of rest] Chodan",
+        "rarity": "C",
+        "effect": "[Fight effect]\nGrants the following buffs and debuffs:\n* def: 50;\n* guard: 10;\n* magic_resist: 10;\n* atk: -200;\n* str: -10.",
         "ruling_note": null,
         "trait": null,
         "subtrait": null
@@ -1038,8 +1056,8 @@
         "card_id": "161",
         "name": "[Fluffy protection] Hina",
         "rarity": "UC",
-        "effect": "[Fight effect]\nIf this card is equipped as your sub card, it restores any debuff inflicted by your main card.",
-        "ruling_note": null,
+        "effect": "[Fight effect]\nIf this card is in your Sub slot, it restores any debuff you received before this card's activation.",
+        "ruling_note": "Since the fixed activation order for effects that apply at the start of the fight are [Challenger Main] -> [Challenger Sub] -> [Challenged Main] -> [Challenged Sub] (where the Challenger is the one to start the fight), this effect resolves either as the second or as the fourth ring of the chain.",
         "trait": null,
         "subtrait": null
     },
