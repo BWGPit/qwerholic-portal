@@ -1,0 +1,23 @@
+@font-face {
+    font-family: articleFont;
+    src: url("../Fonts/BeaufortMedium.ttf");
+}
+
+@font-face {
+    font-family: articleFontRegular;
+    src: url("../Fonts/Beaufort-W01-Regular.ttf");
+}
+
+.article-page {
+    font-family: articleFontRegular;
+    text-justify: initial;
+    display: block;
+}
+
+h4 {
+    font-style: italic;
+}
+
+p {
+    font-family: articleFont;
+}

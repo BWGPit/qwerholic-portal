@@ -1002,7 +1002,16 @@
         "card_id": "112",
         "name": "[Days of rest] Chodan",
         "rarity": "C",
-        "effect": "[Fight effect]\nGrants the following buffs and debuffs:\n* def: 50;\n* guard: 10;\n* magic_resist: 10;\n* atk: -200;\n* str: -10.",
+        "effect": "[Fight effect]\nGrants the following buffs and debuffs:\n* DEF: 50;\n* GUARD: 10;\n* MAGIC RESIST: 10;\n* ATK: -200;\n* STR: -10.",
+        "ruling_note": null,
+        "trait": null,
+        "subtrait": null
+    },
+    "113": {
+        "card_id": "113",
+        "name": "[Crouching flower] Chodan",
+        "rarity": "C",
+        "effect": "[Fight effect]\nIf your opponent's GUARD is higher than yours, this card increases your STR by 75% of the difference.",
         "ruling_note": null,
         "trait": null,
         "subtrait": null
