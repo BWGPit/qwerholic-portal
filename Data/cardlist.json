@@ -950,7 +950,7 @@
         "rarity": "C",
         "effect": "[Fight effect]\nGrants 10 GUARD.",
         "ruling_note": null,
-        "trait": null,
+        "trait": "Panda cutie",
         "subtrait": null
     },
     "107": {
@@ -1016,11 +1016,47 @@
         "trait": null,
         "subtrait": null
     },
+    "114": {
+        "card_id": "114",
+        "name": "[Precious inears] Magenta",
+        "rarity": "C",
+        "effect": "\n[Fight effect]\nGrants 5 GUARD and MAGIC RESIST, but lowers DEF by 250.",
+        "ruling_note": null,
+        "trait": null,
+        "subtrait": null
+    },
+    "115": {
+        "card_id": "115",
+        "name": "[Panda cutie] Magenta",
+        "rarity": "C",
+        "effect": "[Fight effect]\nGrants 10 GUARD.\n[Trait bonus]\nGrants 30 more GUARD if the other equipped card has the trait [Panda cutie]",
+        "ruling_note": null,
+        "trait": "Panda cutie",
+        "subtrait": null
+    },
+    "116": {
+        "card_id": "116",
+        "name": "[Before the concert] Magenta",
+        "rarity": "C",
+        "effect": "\n[Fight effect]\nThis card randomly picks one of the following outcomes:\n* Grants 250 ATK;\n* Grants 20 STR;\n* Decreases GUARD by -30.",
+        "ruling_note": null,
+        "trait": null,
+        "subtrait": null
+    },
     "117": {
         "card_id": "117",
         "name": "[Wink catching you off guard] Magenta",
         "rarity": "C",
         "effect": "[Fight effect]\nLowers the enemy GUARD by 10.",
+        "ruling_note": null,
+        "trait": null,
+        "subtrait": null
+    },
+    "118": {
+        "card_id": "118",
+        "name": "[Victory sign] Magenta",
+        "rarity": "C",
+        "effect": "[Fight effect]\nIncreases damage by 5% of the last damage inflicted to the enemy.",
         "ruling_note": null,
         "trait": null,
         "subtrait": null
@@ -1034,6 +1070,33 @@
         "trait": null,
         "subtrait": null
     },
+    "120": {
+        "card_id": "120",
+        "name": "[American Genta] Magenta",
+        "rarity": "C",
+        "effect": "[Fight effect]\nHeals 50 HP each turn and deals 25 damage with a 1 turn cooldown.",
+        "ruling_note": null,
+        "trait": null,
+        "subtrait": null
+    },
+    "121": {
+        "card_id": "121",
+        "name": "[New glasses] Magenta",
+        "rarity": "C",
+        "effect": "[Fight effect]\nIncreases DEF by 50. Then, if your other equipped card is [Glass(es) cannon] Magenta, this card gains the following effect:\n* Lowers your opponent's DEF by 15%.",
+        "ruling_note": null,
+        "trait": null,
+        "subtrait": null
+    },
+    "124": {
+        "card_id": "124",
+        "name": "[Panda cutie] Hina",
+        "rarity": "C",
+        "effect": "[Fight effect]\nGrants 10 MAGIC RESIST.",
+        "ruling_note": null,
+        "trait": "Panda cutie",
+        "subtrait": null
+    },
     "127": {
         "card_id": "127",
         "name": "[Spell-breaking gaze] Hina",
@@ -1041,6 +1104,15 @@
         "effect": "[Fight effect]\nLowers the enemy MAGIC RESIST by 10.",
         "ruling_note": null,
         "trait": null,
+        "subtrait": null
+    },
+    "133": {
+        "card_id": "133",
+        "name": "[Panda cutie] Siyeon",
+        "rarity": "C",
+        "effect": "[Fight effect]\nGrants 10 MAGIC RESIST.\n[Trait bonus]\nGrants 30 more MAGIC RESIST if the other equipped card has the trait [Panda cutie]",
+        "ruling_note": null,
+        "trait": "Panda cutie",
         "subtrait": null
     },
     "140": {
